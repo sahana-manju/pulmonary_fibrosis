@@ -1,0 +1,31 @@
+Gender,Age_min,Age_max,FVC_min,FVC_max,Risk_type
+Male,55,200,3201,9000,Normal
+Female,55,200,2401,9000,Normal
+Male,18,54,3841,9000,Normal
+Female,18,54,2961,9000,Normal
+Male,13,17,2401,9000,Normal
+Female,13,17,2241,9000,Normal
+Male,9,12,1761,9000,Normal
+Female,9,12,1601,9000,Normal
+Male,0,8,929,9000,Normal
+Female,0,8,833,9000,Normal
+Male,55,200,2400,3200,Mild Risk
+Female,55,200,1800,2400,Mild Risk
+Male,18,54,2880,3840,Mild Risk
+Female,18,54,2220,2960,Mild Risk
+Male,13,17,1800,2400,Mild Risk
+Female,13,17,1680,2240,Mild Risk
+Male,9,12,1320,1760,Mild Risk
+Female,9,12,1200,1600,Mild Risk
+Male,0,8,696,928,Mild Risk
+Female,0,8,624,832,Mild Risk
+Male,55,200,0,2399,Severe Risk
+Female,55,200,0,1799,Severe Risk
+Male,18,54,0,2879,Severe Risk
+Female,18,54,0,2219,Severe Risk
+Male,13,17,0,1799,Severe Risk
+Female,13,17,0,1679,Severe Risk
+Male,9,12,0,1319,Severe Risk
+Female,9,12,0,1199,Severe Risk
+Male,0,8,0,695,Severe Risk
+Female,0,8,0,623,Severe Risk
